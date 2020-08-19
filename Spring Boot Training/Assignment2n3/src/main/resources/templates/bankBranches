@@ -1,0 +1,29 @@
+<html xmlns:th="https://thymeleaf.org">
+<head>
+<style>
+table, th, td {
+  border: 1px solid black;
+}
+</style>
+</head>
+<body>
+
+<h1>HDFC Bank</h1>
+
+<table>
+  <tr>
+    <th >Services Provided by the Bank</th>
+  </tr>
+  <tr>
+    <td>Personal Banking</td>
+  </tr>
+  <tr>
+    <td>Corporate Banking</td>
+  </tr>
+  <tr>
+    <td>Investment Banking</td>
+  </tr>
+</table>
+
+</body>
+</html>

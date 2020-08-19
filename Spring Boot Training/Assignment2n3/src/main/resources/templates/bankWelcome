@@ -1,0 +1,41 @@
+<html xmlns:th="https://thymeleaf.org">
+<head>
+<style>
+table th, td {
+  border: 1px solid black;
+}
+</style>
+</head>
+<body>
+
+<h1>th:text="HDFC Bank branches in Bangalore"</h1>
+
+<table>
+  <tr>
+    <td>HDFC BankMG RoadNo 24/3 & 51, Kasturba Road, MG Road, Bengaluru - 560001</td>
+  </tr>
+  <tr>
+    <td>HDFC BankInfantry RoadNo 29, Empire Infantry Road, Bengaluru - 560001</td>
+  </tr>
+ <tr>
+    <td>HDFC BankMG RoadNo 24/3 & 51, Kasturba Road, MG Road, Bengaluru - 560001</td>
+  </tr>
+  <tr>
+    <td>HDFC BankInfantry RoadNo 29, Empire Infantry Road, Bengaluru - 560001</td>
+  </tr>
+  <tr>
+    <td>HDFC BankMG RoadNo 24/3 & 51, Kasturba Road, MG Road, Bengaluru - 560001</td>
+  </tr>
+  <tr>
+    <td>HDFC BankInfantry RoadNo 29, Empire Infantry Road, Bengaluru - 560001</td>
+  </tr>
+  <tr>
+    <td>HDFC BankMG RoadNo 24/3 & 51, Kasturba Road, MG Road, Bengaluru - 560001</td>
+  </tr>
+  <tr>
+    <td>HDFC BankInfantry RoadNo 29, Empire Infantry Road, Bengaluru - 560001</td>
+  </tr>
+</table>
+
+</body>
+</html>
